@@ -1,3 +1,17 @@
 get the User data...
 for this i have created branch 
 main -> ssh.keygen ->ssh-keygen -t ed25519 -C "your_email@example.com"
+got seeramsrinvas dirrectory
+dir
+cd .ssh
+dir
+cat .pub / id_   .pub
+back to git GIT LEARNING page
+dir -verify
+cpy -git remote -paste {mapped}
+git push origin main ussed to send into repository
+
+
+Now check in Vs code
+
+
