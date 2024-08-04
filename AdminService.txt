@@ -1,0 +1,3 @@
+In this admin page we are creating another branch 
+git checkout -b 2main -> then we are pushing into my repository
+ 
